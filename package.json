@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@agentclientprotocol/sdk": "^1.5.0"
+  }
+}
